@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thadeevoorhoede/jenkins-sandbox/issues"
   },
-  "homepage": "https://github.com/thadeevoorhoede/jenkins-sandbox"
+  "homepage": "https://github.com/thadeevoorhoede/jenkins-sandbox",
+  "devDependencies": {
+    "gulp": "^3.5.6"
+  }
 }
