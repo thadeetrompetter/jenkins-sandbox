@@ -1,0 +1,19 @@
+{
+  "name": "jenkins-sandbox",
+  "version": "0.0.0",
+  "description": "testing jenkins ci",
+  "main": "source/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thadeevoorhoede/jenkins-sandbox.git"
+  },
+  "author": "Thadee Trompetter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thadeevoorhoede/jenkins-sandbox/issues"
+  },
+  "homepage": "https://github.com/thadeevoorhoede/jenkins-sandbox"
+}
